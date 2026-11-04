@@ -6,7 +6,7 @@ LensPharm is the first vertical of [Squadera](https://squadera.io), an AI operat
 
 Built by **Sonny Trikha**, Product Lead and Co-Founder, Squadera. [LinkedIn](https://linkedin.com/in/sonnytrikha)
 
-> The source code is private because it serves a live client. This page explains what the product does, the decisions behind it, and how it is measured. I'm happy to walk through a live demo on a synthetic tenant.
+> The source code is private because it serves a live client. This page explains what the product does, the decisions behind it, and how it is measured. I'm happy to walk through a live demo on a synthetic tenant. Images are product designs using figures from that synthetic tenant; no client data is shown.
 
 ---
 
@@ -79,8 +79,6 @@ Forecasts carry their measured error, so the owner sees how far to trust the lin
 - Python and FastAPI, React, DuckDB per client, on AWS in Sydney
 - Claude through a provider layer, with credentials kept off the application host
 - Built with two AI coding agents: one builds, the other independently verifies, releases and deploys. Deploys, anything client-facing and priorities stay with me.
-
-*Images are product designs using figures from a synthetic demo tenant. No client data is shown.*
 
 ## What's next
 
