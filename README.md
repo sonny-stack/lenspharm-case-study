@@ -60,7 +60,7 @@ The model is an interpreter, not an oracle. It turns the question into a request
 
 ![One discipline, many verticals](platform-pattern.png)
 
-Second vertical: **[LensCon case study](https://github.com/sonny-stack/lenscon-case-study)**, the same approach applied to construction (in development). The lesson was useful: what carried across cleanly was the discipline, not the code. That is why the rules are written down once and checked on every release.
+A second vertical, [LensCon](https://github.com/sonny-stack/lenscon-case-study), applies the same discipline to multi-entity building groups, joining accounting and job management data into one view; it is a working prototype on synthetic data. The lesson was useful: what carried across cleanly was the discipline, not the code. That is why the rules are written down once and checked on every release.
 
 ## How it's measured
 
