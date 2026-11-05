@@ -60,7 +60,7 @@ The model is an interpreter, not an oracle. It turns the question into a request
 
 ![One discipline, many verticals](platform-pattern.png)
 
-A second vertical, construction intelligence for multi-entity building groups, was built as a working prototype on the same discipline using synthetic Xero-format and Buildxact-format data. The lesson was useful: what carried across cleanly was the discipline, not the code. That is why the rules are written down once and checked on every release.
+Second vertical: **[LensCon case study](https://github.com/sonny-stack/lenscon-case-study)**, the same approach applied to construction (in development). The lesson was useful: what carried across cleanly was the discipline, not the code. That is why the rules are written down once and checked on every release.
 
 ## How it's measured
 
